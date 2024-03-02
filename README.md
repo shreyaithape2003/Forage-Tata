@@ -1,7 +1,14 @@
 # Forage-Tata
 This project elucidates insights into Tata's Online Retail Store. Employing Power BI, a robust data visualization tool, I crafted an interactive dashboard. The objective was to forecast product trends strategically, contributing to the sustained growth of the business.
 
-Steps to perform the project correctly are as follows:
+### Data Resources: 
+The primary dataset used for this analysis is the "Online Retail Store" dataset provided by Tata Group.
+
+### Tools used:
+Excel - Data Cleaning
+Power BI - Creating Reports
+
+### Steps to perform the project correctly are as follows:
 
 **1)Business Question Analysis:**
 Thoroughly comprehend the business questions to align the project objectives with organizational goals.
